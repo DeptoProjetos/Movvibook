@@ -1,0 +1,32 @@
+@import "../../styles/variaveis";
+
+.conteudo {
+    display: flex;
+    align-items: flex-end;
+    gap: 0.5em;
+    color:$cinza-escuro;
+    margin: 1em 0;
+    text-decoration: none;
+
+    h3 {
+        margin: 0 0.5em;
+        font-size: 1em;
+        font-weight: 400;
+        
+    }
+
+    &:hover {
+        color: $cor-padrao-movvi-d;
+        border-bottom: 2px solid $cor-padrao-movvi-d;
+    }
+
+    &__selected {
+        border-bottom: 2px solid $cor-padrao-movvi;
+        color: $cor-padrao-movvi;
+    }
+
+    &:active {
+        color: $cor-secundaria;
+        border-bottom: 2px solid $cor-secundaria;
+    }
+}

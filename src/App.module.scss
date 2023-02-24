@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Nunito:wght@400;500;600;700;800;900&display=swap');
+@import '/src/styles/variaveis';
+
+html {
+  min-height: 100%;
+}
+
+
+body {
+  position: relative;
+  padding: 0;
+  min-height: 100%;
+  margin: 0;
+  font-family: $fonte-primaria;
+  background:linear-gradient($cor-inicial-backgroud,$cor-final-backgroud);
+}
+
+body::-webkit-scrollbar {
+  width: 5px;
+}
+
+body::-webkit-scrollbar-track {
+  background: linear-gradient($cor-padrao-movvi, $cor-padrao-movvi-d);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: $cor-padrao-movvi;
+  border-radius: 20px;
+}
+

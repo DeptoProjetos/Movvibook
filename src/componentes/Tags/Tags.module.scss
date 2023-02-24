@@ -1,0 +1,39 @@
+@import '../../styles/variaveis';
+
+.tags {
+    // display: flex;
+    // align-items: center;
+    // justify-content: space-between;
+
+    h1 {
+        font-size: 1em;
+        color: $cinza-escuro;
+        margin: 0 0 1.2em 0;
+
+        font-weight: 400;
+        
+    }
+
+    &__lista {
+        display: flex;
+        gap: 0.5em;
+        flex-wrap: wrap;
+        flex-direction: row;
+        margin: 0.5em 0 1.2em 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    &__lista li {
+        padding: 0 0.8em;
+        border: 1px solid $cor-padrao-movvi;
+        border-radius: 20px;
+        color: $cor-padrao-movvi;
+    }
+
+    &__lista li:hover {
+        background-color: $cor-padrao-movvi-d;
+        color:$cor-inicial-backgroud
+
+    }
+}

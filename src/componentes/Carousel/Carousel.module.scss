@@ -1,0 +1,20 @@
+.carousel{
+
+   cursor:grab;
+
+    &__inner {
+        display: flex;
+    }
+
+    &__banner {
+        min-width: 110%;
+        padding: 0;
+        
+    }
+
+    &__banner img {
+        width: 90%;
+        pointer-events: none;
+    }
+
+}

@@ -1,0 +1,7 @@
+.principal {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    gap: 2em;
+    padding: 2em;
+    min-height: 50vw;
+}

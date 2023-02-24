@@ -1,0 +1,18 @@
+.novo {
+    padding: 1em 2em;
+
+    &__content {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 40vw;
+        
+
+        div {
+            text-align: center;
+            gap: 1em;
+            flex-wrap: wrap;
+            padding: 1em;
+        }
+    }
+}

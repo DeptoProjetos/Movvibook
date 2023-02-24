@@ -1,0 +1,20 @@
+@import 'styles/variaveis';
+
+.principal {
+
+    &__voltar {
+        position: fixed;
+        top: 0.25;
+        padding: 0.5em;
+        background-color: white;
+        border-radius: 360px;
+    }
+
+    h1 {
+        margin: 0;
+        font-size: 2em;
+        min-width: 100%;
+        color:$cor-padrao-movvi;
+        text-align: center;
+    }
+}

@@ -1,0 +1,29 @@
+@import '../../styles/variaveis';
+
+.add {
+    position: relative;
+
+    &__button {
+        position: absolute;
+        top: -2.5em;
+        right: 0;
+        font-size: 1.75em;
+        color: $cor-padrao-movvi;
+    }
+
+    &__button:hover {
+        scale: 1.1;
+    }
+
+    &__button:active {
+        color: $azul-claro;
+    }
+}
+
+.cards {
+    display: flex;
+    gap: 2em;
+    flex-wrap: wrap;
+    margin: 2em 0;
+    padding: 0;
+}

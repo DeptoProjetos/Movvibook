@@ -1,0 +1,14 @@
+.noticias {
+    padding: 1em 2em;
+
+    &__content {
+        min-height: 37.5vw;
+
+        div {
+            text-align: center;
+            gap: 1em;
+            flex-wrap: wrap;
+            padding: 1em;
+        }
+    }
+}

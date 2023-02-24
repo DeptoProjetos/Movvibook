@@ -1,0 +1,90 @@
+[
+    {   
+        "id":1,
+        "title": "Marcos",
+        "tag": "BI",
+        "path": "/assets/img/treinamentos/Treinamento-1.png",
+        "file": "/assets/arquivos/treinamentos/performance.pdf",
+        "alt": "(19) 9 7813-3397"
+    },
+    {   
+        "id":2,
+        "title": "Natália",
+        "tag": "Dinfo",
+        "path": "/assets/img/treinamentos/Treinamento-1.png",
+        "file": "/assets/arquivos/treinamentos/performance.pdf",
+        "alt": "Treinamento de Hora Extra"
+    },
+    {
+        "id":3,
+        "title": "Thaynara",
+        "tag": "Marketing",
+        "path": "/assets/img/treinamentos/Treinamento-1.png",
+        "file": "/assets/arquivos/treinamentos/performance.pdf",
+        "alt": "Treinamento de Hora Extra"
+    },
+    {
+        "id":4,
+        "title": "Fabiano",
+        "tag": "Dinfo",
+        "path": "/assets/img/treinamentos/Treinamento-1.png",
+        "file": "/assets/arquivos/treinamentos/performance.pdf",
+        "alt": "Treinamento de Performance"
+    },
+    {
+        "id":5,
+        "title": "Cicero",
+        "tag": "CEO",
+        "path": "/assets/img/treinamentos/Treinamento-1.png",
+        "file": "/assets/arquivos/treinamentos/performance.pdf",
+        "alt": "Treinamento de Performance"
+    },
+    {
+        "id":6,
+        "title": "Leticia",
+        "tag": "SGQ",
+        "path": "/assets/img/treinamentos/Treinamento-1.png",
+        "file": "/assets/arquivos/treinamentos/performance.pdf",
+        "alt": "Treinamento de Performance"
+    },
+    {
+        "id":7,
+        "title": "Adriana",
+        "tag": "Comercial",
+        "path": "/assets/img/treinamentos/Treinamento-1.png",
+        "file": "/assets/arquivos/treinamentos/performance.pdf",
+        "alt": "Treinamento de Hora Extra"
+    },
+    {
+        "id":8,
+        "title": "Adriana",
+        "tag": "Comercial",
+        "path": "/assets/img/treinamentos/Treinamento-1.png",
+        "file": "/assets/arquivos/treinamentos/performance.pdf",
+        "alt": "Treinamento de Hora Extra"
+    },
+    {
+        "id":9,
+        "title": "Adriana",
+        "tag": "Comercial",
+        "path": "/assets/img/treinamentos/Treinamento-1.png",
+        "file": "/assets/arquivos/treinamentos/performance.pdf",
+        "alt": "Treinamento de Hora Extra"
+    },
+    {
+        "id":10,
+        "title": "Adriana",
+        "tag": "Comercial",
+        "path": "/assets/img/treinamentos/Treinamento-1.png",
+        "file": "/assets/arquivos/treinamentos/performance.pdf",
+        "alt": "Treinamento de Hora Extra"
+    },
+    {
+        "id":11,
+        "title": "Adriana",
+        "tag": "Comercial",
+        "path": "/assets/img/treinamentos/Treinamento-1.png",
+        "file": "/assets/arquivos/treinamentos/performance.pdf",
+        "alt": "Treinamento de Hora Extra"
+    }
+]

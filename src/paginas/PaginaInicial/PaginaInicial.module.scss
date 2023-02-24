@@ -1,0 +1,28 @@
+@import '../../styles/variaveis';
+
+.principal {
+    display: grid;
+    grid-template-columns: 0.75fr 4fr;
+    gap: 3em;
+    margin-bottom: 3em;
+    padding: 1em 3em;
+
+    &__banners{
+        overflow: hidden;
+    }
+
+    &__left__side {
+        display: grid;
+        grid-template-columns: 4fr 1fr;
+    }
+
+    &__right__side {
+
+        &__news {
+            margin-bottom: 3em;
+            text-align: center;
+            
+
+        }
+    }
+}

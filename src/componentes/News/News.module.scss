@@ -1,0 +1,16 @@
+.headlines {
+    // width: 100%;
+    margin: 0 0 0 2em;
+    text-align: center;
+
+    &__news {
+        display: flex;
+        flex-direction: column-reverse;
+        overflow: scroll;
+        padding: 0.5em;
+    }
+
+    &__news::-webkit-scrollbar {
+        display: none;
+    }
+}

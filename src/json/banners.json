@@ -1,0 +1,16 @@
+[{  
+    "id":1,
+    "path":"/assets/img/banners/banner-1.png",
+    "alt":"Primeiro Banner"
+},
+{
+    "id":2,
+    "path":"/assets/img/banners/banner-2.png",
+    "alt":"Segundo Banner"
+},
+{
+    "id":3,
+    "path":"/assets/img/banners/banner-3.png",
+    "alt":"Terceiro Banner"
+}
+]
